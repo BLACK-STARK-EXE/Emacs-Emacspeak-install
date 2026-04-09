@@ -1,4 +1,4 @@
-# --- Script de Instalação-Automatização (WSL + Emacs + Java) ---
+# --- Script de Instalação-Automatização (WSL + Emacs/Emacspeak + Java) ---
 Write-Host "Iniciando Configuração Geral..." -ForegroundColor Cyan
 
 # Detecção Automática do Usuário WSL
